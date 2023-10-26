@@ -31,5 +31,5 @@ Además de mi pasión por el análisis de datos, aprecio la industria de la bell
   
 ## Extra
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scarlettebelMarcelaLizarazo&show_icons=true&locale=en&layout=compact" alt="MarcelaLizarazo" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcelaLizarazo&show_icons=true&locale=en&layout=compact" alt="MarcelaLizarazo" /></p>
 
