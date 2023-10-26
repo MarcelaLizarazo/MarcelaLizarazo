@@ -1,5 +1,7 @@
 # <h1 align="center">Hi, I'm Marcela lizarazo 👋</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcelaLizarazo&label=Profile%20views&color=0e75b6&style=flat" alt="MarcelaLizarazo" /> </p>
+
 ## Sobre mí 📄
 Soy una economista y analista de datos con más de 8 años de experiencia en la industria bancaria. Mi pasión radica en impulsar la toma de decisiones basadas en datos y contribuir al crecimiento de equipos orientados a datos. Mi experiencia incluye el manejo de extensos conjuntos de datos, la creación de paneles de control perspicaces y la generación de informes accionables con visualización de datos atractiva.
 
