@@ -17,13 +17,8 @@ Además de mi pasión por el análisis de datos, aprecio la industria de la bell
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marcelalizarazo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Marcela Lizarazo" height="30" width="40" /></a>
-<a href="mailto:Marcelalizarazo33@gmail.com" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Correo electrónico" height="30" width="40" /></a>
-<a href="https://github.com/MarcelaLizarazo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Marcela Lizarazo" height="30" width="40" /></a>
+<a href="mailto:Marcelalizarazo33@gmail.com" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
-
-- [LinkedIn](https://www.linkedin.com/in/marcelalizarazo/)
-- [GitHub](https://github.com/MarcelaLizarazoGitHub)
-- [Gmail](https://github.com/MarcelaLizarazoGitHub)
 
 ## Herramientas y Lenguajes
 <h3 align="left">Languages and Tools:</h3>
