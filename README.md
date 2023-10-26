@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Connect with me:
+
+Languages and Tools:
+aws bash cassandra git hive linux mysql pandas python scala scikit_learn seaborn
