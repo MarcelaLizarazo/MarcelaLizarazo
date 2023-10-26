@@ -2,18 +2,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcelaLizarazo&label=Profile%20views&color=0e75b6&style=flat" alt="MarcelaLizarazo" /> </p>
 
-## Sobre mí 📄
-Soy una economista y analista de datos con más de 8 años de experiencia en la industria bancaria. Mi pasión radica en impulsar la toma de decisiones basadas en datos y contribuir al crecimiento de equipos orientados a datos. Mi experiencia incluye el manejo de extensos conjuntos de datos, la creación de paneles de control perspicaces y la generación de informes accionables con visualización de datos atractiva.
+## About Me 📄
+I am an economist and data analyst with experience in the banking industry. My passion lies in driving data-driven decision-making and contributing to the growth of data-focused teams. My experience includes handling extensive datasets, creating insightful dashboards, and generating actionable reports with attractive data visualizations.
 
-En mi perfil de GitHub, encontrarás proyectos relacionados con SQL, Power BI y Python, donde aplico mis habilidades para analizar datos y comunicar información relevante de manera efectiva. Estoy emocionado por compartir mi trabajo y contribuir a la comunidad de desarrolladores y profesionales de datos.
+In my GitHub profile, you will find projects related to SQL, Power BI, and Python, where I apply my skills to analyze data and effectively communicate relevant information. I am excited to share my work and contribute to the developer and data professional community.
 
-## Proyectos Actuales 💻
-Actualmente, me encuentro inmersa en una serie de proyectos personales que fusionan mi pasión por el análisis de datos, la economía y la industria bancaria. Estos proyectos abarcan diversos aspectos de mi experiencia y habilidades en SQL, Power BI y Python.
+## Projects 💻
+I am immersed in a series of personal projects that combine my passion for data analysis, economics, and the banking industry. These projects cover various aspects of my experience and skills in SQL, Power BI, and Python.
 
-Puedes explorar todos mis proyectos en [mi perfil de GitHub]( https://github.com/MarcelaLizarazo?tab=repositories). 👨‍💻
+You can explore all my projects on [my GitHub profile]( https://github.com/MarcelaLizarazo?tab=repositories). 👨‍💻
 
-## Dato Curioso ⚡
-Además de mi pasión por el análisis de datos, aprecio la industria de la belleza como una expresión artística. Encuentro una fusión única de ciencia y arte en ambos campos, donde la precisión y la creatividad son esenciales. 🌟💄📈
+## Fun Fact ⚡
+In addition to my passion for data analysis, I am a professional stylist. I find in the beauty industry a unique artistic expression where science and art merge. In both fields, precision and creativity are essential. 🌟💇‍♀️🎨💄📈
 
 ## Connect with me:
 <p align="left">
@@ -21,7 +21,7 @@ Además de mi pasión por el análisis de datos, aprecio la industria de la bell
 <a href="mailto:Marcelalizarazo33@gmail.com" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
-## Herramientas y Lenguajes
+## Tools and Languages: 
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
@@ -30,8 +30,5 @@ Además de mi pasión por el análisis de datos, aprecio la industria de la bell
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a></a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="powerBI" width="40" height="40"/></a> 
 <p>
-  
-## Extra
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcelaLizarazo&show_icons=true&locale=en&layout=compact" alt="MarcelaLizarazo" /></p>
+
 
