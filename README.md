@@ -1,4 +1,4 @@
-# <h1 align="center">Hi I'm Marcela lizarazo 👋</h1>
+# <h1 align="center">Hi, I'm Marcela lizarazo 👋</h1>
 
 ## Sobre mí 📄
 Soy una economista y analista de datos con más de 8 años de experiencia en la industria bancaria. Mi pasión radica en impulsar la toma de decisiones basadas en datos y contribuir al crecimiento de equipos orientados a datos. Mi experiencia incluye el manejo de extensos conjuntos de datos, la creación de paneles de control perspicaces y la generación de informes accionables con visualización de datos atractiva.
@@ -17,8 +17,8 @@ Además de mi pasión por el análisis de datos, aprecio la industria de la bell
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marcelalizarazo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Marcela Lizarazo" height="30" width="40" /></a>
-<a href="Marcelalizarazo33@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="scarlette_bell" height="30" width="40" /></a>
-<a href="https://github.com/MarcelaLizarazoGitHub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="scarlette_bell" height="30" width="40" /></a>
+<a href="Marcelalizarazo33@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Marcela Lizarazo" height="30" width="40" /></a>
+<a href="https://github.com/MarcelaLizarazoGitHub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Marcela Lizarazo" height="30" width="40" /></a>
 </p>
 
 - [LinkedIn](https://www.linkedin.com/in/marcelalizarazo/)
