@@ -8,7 +8,7 @@ En mi perfil de GitHub, encontrarás proyectos relacionados con SQL, Power BI y 
 ## Proyectos Actuales
 Actualmente, me encuentro inmersa en una serie de proyectos personales que fusionan mi pasión por el análisis de datos, la economía y la industria bancaria. Estos proyectos abarcan diversos aspectos de mi experiencia y habilidades en SQL, Power BI y Python.
 
-Puedes explorar todos mis proyectos en mi perfil de GitHub. 👨‍💻
+Puedes explorar todos mis proyectos en [mi perfil de GitHub]( https://github.com/MarcelaLizarazo?tab=repositories). 👨‍💻
 
 ## Contacto
 
