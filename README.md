@@ -1,4 +1,5 @@
-# <h1 align="center">Hi, I'm Marcela lizarazo 👋</h1>
+# <h1 align="center">Hi 👋 I'm Marcela lizarazo 👨‍💻 </h1>
+Data Analyst | Business Intelligence | Excel, SQL, Power BI | KPIs, Dashboards & Conversion Funnels Enthusiast | Driving Data-Driven Success for Businesses
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcelaLizarazo&label=Profile%20views&color=0e75b6&style=flat" alt="MarcelaLizarazo" /> </p>
 
