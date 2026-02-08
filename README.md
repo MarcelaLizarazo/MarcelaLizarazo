@@ -1,20 +1,20 @@
 # <h1 align="center">Hi 👋 I'm Marcela Lizarazo 👨‍💻</h1>
-<p align="center"> Data Analyst | Business Intelligence | Excel, SQL, Python, Power BI | KPIs, Dashboards & Conversion Funnels Enthusiast | Driving Data-Driven Success for Businesses </p>
+<p align="center"> Sales Strategy & Analytics Manager | SQL, Python, Power BI  
+Using data to drive sales performance, strategy, and decision-making </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcelaLizarazo&label=Profile%20views&color=0e75b6&style=flat" alt="MarcelaLizarazo" /> </p>
 
 ## About Me 📄
-I am an economist and data analyst with experience in the banking industry. My passion lies in driving data-driven decision-making and contributing to the growth of data-focused teams. My experience includes handling extensive datasets, creating insightful dashboards, and generating actionable reports with attractive data visualizations.
+I work at the intersection of sales strategy and data analytics. My experience focuses on analyzing business performance, supporting strategic decisions, and developing data-driven approaches to improve results.
 
-In my GitHub profile, you will find projects related to SQL, Power BI, and Python, where I apply my skills to analyze data and effectively communicate relevant information. I am excited to share my work and contribute to the developer and data professional community.
+My work includes data cleaning, data mining, analytical modeling, and building dashboards that support leadership in monitoring performance and guiding strategy.
+
+On this GitHub, you will find projects that show how data can be used to understand business performance, segment clients, and support decision-making. These projects use SQL, Power BI, and Python to analyze data and communicate insights in a clear and practical way. I share my work here as part of my continuous development in analytics and to contribute to the data community.
 
 ## Projects 💻
 I am immersed in a series of personal projects that combine my passion for data analysis, economics, and the banking industry. These projects cover various aspects of my experience and skills in SQL, Power BI, and Python.
 
 You can explore all my projects on [my GitHub profile]( https://github.com/MarcelaLizarazo?tab=repositories). 👨‍💻
-
-## Fun Fact ⚡
-In addition to my passion for data analysis, I am a professional stylist. I find in the beauty industry a unique artistic expression where science and art merge. In both fields, precision and creativity are essential. 🌟💇‍♀️🎨💄📈
 
 ## Connect with me:
 <p align="left">
