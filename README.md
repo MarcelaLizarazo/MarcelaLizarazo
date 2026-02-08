@@ -15,12 +15,6 @@ I am immersed in a series of personal projects that combine my passion for data 
 
 You can explore all my projects on [my GitHub profile]( https://github.com/MarcelaLizarazo?tab=repositories). 👨‍💻
 
-## Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/marcelalizarazo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Marcela Lizarazo" height="30" width="40" /></a>
-<a href="mailto:Marcelaliz@gma.com" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Gmail" height="30" width="40" /></a>
-</p>
-
 ## Tools and Languages: 
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
