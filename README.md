@@ -1,6 +1,5 @@
 # <h1 align="center">Hi 👋 I'm Marcela Lizarazo 👨‍💻</h1>
-<p align="center"> Sales Strategy & Analytics | SQL, Python, Power BI  
-Using data to drive sales performance, strategy, and decision-making </p>
+<p align="center"> Sales Strategy & Analytics | Excel, SQL, Python, Power BI | Using data to drive performance and business success </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcelaLizarazo&label=Profile%20views&color=0e75b6&style=flat" alt="MarcelaLizarazo" /> </p>
 
